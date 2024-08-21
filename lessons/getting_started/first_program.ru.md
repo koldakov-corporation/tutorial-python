@@ -64,3 +64,5 @@ if __name__ == '__main__':
 ## Навигация
 
 [Предыдущая глава](/lessons/getting_started/installation.ru.md)
+
+[Следующая глава](/lessons/getting_started/project_structure.ru.md)
