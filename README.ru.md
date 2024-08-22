@@ -36,3 +36,4 @@
   * [Первая программа](/lessons/getting_started/first_program.ru.md)
   * [Структура проекта](/lessons/getting_started/project_structure.ru.md)
   * [Импорты](/lessons/getting_started/imports.ru.md)
+  * [Виртуальное окружение](/lessons/getting_started/imports.ru.md)
